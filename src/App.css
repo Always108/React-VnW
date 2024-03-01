@@ -1,0 +1,104 @@
+/* .body {
+  background-color: black;
+  color: black
+} */
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+} */
+
+header {
+  background-image: url(https://encurtador.com.br/iBY58);
+  /* background-color: #1e1e1e; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 25vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+nav {
+  width: 80vw;
+  display: flex;
+  justify-content: space-between;
+  /*border: solid 1px;*/
+}
+
+a {
+  color:white;  
+  text-decoration:none;
+  font-size: 1.5rem;
+  
+}
+
+h1 {
+  font-size: 1.3rem;
+  display: flex;
+  text-align: center;
+  /*border: solid 1px;*/
+  padding: 80px;
+}
+
+.boxintro{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /*border: solid 2px;
+  border-color: red;*/
+  height: 50vh;
+}
+
+.imageintro{
+  height: 30vh;
+  width: 20vw;
+  
+}
+
+
+
+h3 {
+  
+  text-align: center;
+  background-color: aqua;
+  padding-bottom: 20px;
+ 
+}
+
+.boxplanetas {
+  /*border: solid 1px;*/
+  padding: 10px;
+  display: flex;  
+  justify-content: space-around;
+  margin-bottom: 40px;
+  
+  
+ 
+  height: 70vh;
+}
+
+.image {
+  width: 27vw;
+  height: 60vh;
+  justify-content:space-evenly;
+}
+
+footer {
+  height: 10vh;
+  background-color: #1e1e1e;
+  display: flex;
+  align-items: center;
+  color: white;
+  justify-content: center;
+}
+
+
+
+
+
+
